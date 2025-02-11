@@ -17,7 +17,7 @@ else{
 }
 */
 
-// Esse é um código que fiz e subi no Commit durante estudos fora do horário de aula. Horário preciso: 
+// Esse é um código que fiz e subi no Commit durante estudos fora do horário de aula. Horário preciso - 19:14
 const prompt = require ('readline-sync');
 
 let qtdnotas = parseFloat(prompt.question('Quantas notas? '));
