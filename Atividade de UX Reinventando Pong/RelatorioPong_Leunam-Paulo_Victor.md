@@ -45,7 +45,7 @@ O esboço a seguir foi desenvolvido durante a aula e surgiu após a definição 
 ---
 
 ## 4. Tela Digital do Jogo  
-*Adicione aqui a **imagem da tela digital finalizada** ou o **link para o arquivo**.*  
+[Esboço da imagem da tela digital finalizada](https://github.com/leeunam/Semana_02/blob/main/Atividade%20de%20UX%20Reinventando%20Pong/assets/esboco.jpg)
 
 *- Como o concept foi adaptado para o formato digital?*
 
@@ -55,22 +55,25 @@ O esboço a seguir foi desenvolvido durante a aula e surgiu após a definição 
 
 ---
 
-## 5. Reflexão e Aprendizados  
-*Cada membro da dupla deve responder individualmente:*  
+## 5. Reflexão e Aprendizados   
 
+- Resposta Leunam:
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
+R. Escolher algo que fosse diferente, mas que ao mesmo tempo fosse viável de terminar até sexta a noite. Permitir ser criativo mas de forma realista para não devanear muito.
+
 2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
+R. Escrita mais objetiva, compactação de ideias e conclusão de tarefas de forma ágil.
+
+- Resposta Paulo Victor:
+1. Quais foram os maiores desafios enfrentados durante o processo de criação?
+R. 
+
+2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
+R. 
 
 ---
 
 ## 6. Referências (se houver)  
-Caso tenha utilizado referências externas, inclua aqui as fontes consultadas.  
+Somente o jogo pong original
 
 ---
-
-**📝 Formato de Entrega:**  
-- O relatório pode ser submetido no **GitHub** em **Markdown** `.md` ou como **PDF** `.pdf` **compartilhado via Drive**.  
-- **Nome do arquivo:** `RelatorioPong_Nome1-Nome2`  
-
-📌 **Prazo de entrega:** Sexta-feira, às 23h59.
-
