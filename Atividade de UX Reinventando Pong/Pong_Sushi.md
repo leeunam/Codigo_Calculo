@@ -1,7 +1,7 @@
 # Relatório - Reinventando Pong
 
 ## 1. Introdução  
-A seguinte atividade tem como objetivo desafiar a dupla a propor uma reinvenção do jogo Pong _(jogo eletrônico de esporte de arcade com temática de tênis de mesa, com gráficos bidimensionais)_. Diante disso, nós, Leunam e Paulo Victor, propomos uma nova abordagem na qual, aem vez de uma partida de tênis, ocorrerá uma disputa de lados para ver quem enche seu prato ou barca de sushi primeiro.
+A seguinte atividade tem como objetivo desafiar a dupla a propor uma reinvenção do jogo Pong _(jogo eletrônico de esporte de arcade com temática de tênis de mesa, com gráficos bidimensionais)_. Diante disso, nós, Leunam e Paulo Victor, propomos uma nova abordagem na qual, em vez de uma partida de tênis, ocorrerá uma disputa de lados para ver quem enche seu prato ou barca de sushi primeiro.
  
 ---
 
@@ -30,17 +30,17 @@ Em resumo, a maneira simples e desafiadora do jogo, junto com todo contexto cita
 ## 3. Proposta de Reinvenção  
 Diante de todo o cenário descrito anteriormente, pensamos em algumas mudanças para essa nova versão do "Pong", sendo elas:
 
-*- **Tema e Ambientação:** Montagem de um prato de comida Oriental com 15 variedades de sushis.*
+- **Tema e Ambientação:** Montagem de um prato de comida Oriental com 15 variedades de sushis.
 
-*- **Personagens ou Elementos Visuais:** Inicialmente, o jogo possuira 2 personagens padrões: Brasil e Jpaão (futuramente implementariamos outros paises que consomem da culinaria oriental)*
+- **Personagens ou Elementos Visuais:** Inicialmente, o jogo possuira 2 personagens padrão: Brasil e Japão (futuramente implementariamos outros paises que consomem a culinaria oriental).
 
-*- **Mudanças na Mecânica:** Houve algumas mudanças na mecânica principal, que são elas: movimentação vertical que permite um avanço, buffs (ajuda durante o jogo) e debufs (atrapalha a jogabilidade inimiga), acumulo de pontos pós jogo que permite uma especie de 'ranking' e troca de skins com moeda virtual adquirida*
+- **Mudanças na Mecânica:** Houve algumas mudanças na mecânica principal, que são elas: movimentação vertical que permite avanço até a linha, *buffs* (ajudas durante o jogo) e *debuffs* (dificultam a jogabilidade inimiga), acúmulo de pontos pós-jogo que permite o sistema de 'ranking', além da troca de skins com moedas virtuais adquiridas após o desempenho do jogo.
 
-*- **Objetivo da Reinvenção:** O principal objetivo da reinvenção é ver quem enche o prato ou a barca, com a maior quantidade de alimentos possíveis dentro do tempo.*
+- **Objetivo da Reinvenção:** O principal objetivo da reinvenção é desafiar quem consegue encher o prato (Jogador do Brasil) ou a barca (Jogador do Japão) com a maior quantidade de alimentos dentro do tempo.
 
-O esboço a seguir foi desenvolvido durante a aula e surgiu após a definição inicial de um tema e do universo no qual a reinvenção do jogo *Pong* aconteceria. Em seguida, decidimos se a mecânica seria mudada e qual ambiente se encaixaria na temática de comida. A partir disso, escolhemos os personagens e as modificações que seriam aplicadas ao layout.
+O esboço a seguir foi desenvolvido durante a aula e surgiu após a definição inicial de um tema e do universo no qual a reinvenção do jogo *Pong* aconteceria. Em seguida, decidimos se a mecânica seria mudada e qual ambiente seria a temática de comida. A partir disso, escolhemos os personagens e as modificações que seriam aplicadas ao layout.
 
-![Esboço da Folha de Concept Art](assets/esboco.png)
+[Esboço da Folha de Concept Art](assets/esboco.png)
 
 ---
 
