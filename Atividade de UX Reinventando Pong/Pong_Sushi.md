@@ -40,7 +40,7 @@ Diante de todo o cenário descrito anteriormente, pensamos em algumas mudanças 
 
 O esboço a seguir foi desenvolvido durante a aula e surgiu após a definição inicial de um tema e do universo no qual a reinvenção do jogo *Pong* aconteceria. Em seguida, decidimos se a mecânica seria mudada e qual ambiente seria a temática de comida. A partir disso, escolhemos os personagens e as modificações que seriam aplicadas ao layout.
 
-[Esboço da Folha de Concept Art](leeunam/Semana_02/blob/main/Atividade%20de%20UX%20Reinventando%20Pong/assets/esboco.jpg)
+[Esboço da Folha de Concept Art](https://github.com/leeunam/Semana_02/blob/main/Atividade%20de%20UX%20Reinventando%20Pong/assets/esboco.jpg)
 
 ---
 
