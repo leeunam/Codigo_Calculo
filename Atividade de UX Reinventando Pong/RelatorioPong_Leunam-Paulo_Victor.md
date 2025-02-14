@@ -55,13 +55,13 @@ O esboço a seguir foi desenvolvido durante a aula e surgiu após escolhermos o 
 ---
 
 ## 4. Tela Digital do Jogo  
-[Esboço da imagem da tela digital finalizada](https://github.com/leeunam/Semana_02/blob/main/Atividade%20de%20UX%20Reinventando%20Pong/assets/esboco.jpg)
+[Esboço da imagem da tela digital finalizada](https://github.com/leeunam/Semana_02/blob/main/Atividade%20de%20UX%20Reinventando%20Pong/assets/Esbo%C3%A7o%20da%20imagem%20da%20tela%20digital%20finalizada.png)
 
 - Como o concept foi adaptado para o formato digital?
 O Paulo Victor desenhou tudo a mão usando o programa Figma.
 
 - Quais elementos visuais foram aprimorados?
-Contador de pontos, prato e funamori,  layout das barras e o plano de fundo.  
+Contador de pontos, prato e funamori, layout das barras e o plano de fundo.  
 
 - O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?
 As cores foram baseadas no sushi e em toda culinária oriental, com o intuito de facilitar a assimilação dos elementos com o propósito do jogo. Os buff, debuffs e moedas foram exportadas do site icons8.
@@ -79,10 +79,10 @@ R. Escrita mais objetiva, compactação de ideias e conclusão de tarefas de for
 
 ### Resposta Paulo Victor:
 1. Quais foram os maiores desafios enfrentados durante o processo de criação?
-R. 
+R. Usar o Figma.
 
 2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
-R. 
+R. Muita paciência e criatividade, porque provavelmente existia alguma ferramenta mais fácil, mas por eu não saber, tive que desenhar tudo pelo jeito mais difícil.
 
 ---
 
