@@ -3,7 +3,7 @@
 ## 1. Introdução  
 A seguinte atividade tem como objetivo desafiar a dupla a propor uma reinvenção do jogo Pong _(jogo eletrônico de esporte de arcade com temática de tênis de mesa, com gráficos bidimensionais)_. 
 
-Diante disso, nós, Leunam e Paulo Victor, propomos uma nova abordagem na qual, em vez de uma partida de tênis, ocorrerá uma disputa de lados para ver quem enche seu prato ou barca de sushi primeiro.
+Diante disso, nós, Leunam e Paulo Victor, propomos uma nova abordagem na qual, em vez de uma partida de tênis, ocorrerá uma disputa de lados para ver quem enche seu prato ou barca de sushi primeiro em um jogo mobile.
  
 ---
 
