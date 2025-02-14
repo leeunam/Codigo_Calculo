@@ -3,7 +3,7 @@
 ## 1. Introdução  
 A seguinte atividade tem como objetivo desafiar a dupla a propor uma reinvenção do jogo Pong _(jogo eletrônico de esporte de arcade com temática de tênis de mesa, com gráficos bidimensionais)_. 
 
-Diante disso, nós, Leunam e Paulo Victor, propomos uma nova abordagem na qual, em vez de uma partida de tênis, ocorrerá uma disputa de lados para ver quem enche seu prato ou barca de sushi primeiro em um jogo mobile.
+Diante disso, nós, Leunam e Paulo Victor, propomos uma nova abordagem na qual, em vez de uma partida de tênis, ocorrerá uma disputa de lados para ver quem enche seu prato ou o funamori de sushi primeiro em um jogo mobile.
  
 ---
 
@@ -46,7 +46,7 @@ Diante de todo o cenário descrito anteriormente, pensamos em algumas mudanças 
 - Troca de skins com moedas virtuais adquiridas após o desempenho do jogo.
 
 ### Objetivo da Reinvenção:
-- O principal objetivo da reinvenção é desafiar quem consegue encher o prato (Jogador do Brasil) ou a barca (Jogador do Japão) com a maior quantidade de alimentos dentro do tempo.
+- O principal objetivo da reinvenção é desafiar quem consegue encher o prato (Jogador do Brasil) ou o funamori (Jogador do Japão) com a maior quantidade de alimentos dentro do tempo.
 
 O esboço a seguir foi desenvolvido durante a aula e surgiu após escolhermos o tema e universo no qual a reinvenção do jogo *Pong* aconteceria. Em seguida, decidimos as mecânicas diferentes e quais seriam os personagens.
 
@@ -57,11 +57,14 @@ O esboço a seguir foi desenvolvido durante a aula e surgiu após escolhermos o 
 ## 4. Tela Digital do Jogo  
 [Esboço da imagem da tela digital finalizada](https://github.com/leeunam/Semana_02/blob/main/Atividade%20de%20UX%20Reinventando%20Pong/assets/esboco.jpg)
 
-*- Como o concept foi adaptado para o formato digital?*
+- Como o concept foi adaptado para o formato digital?
+O Paulo Victor desenhou tudo a mão usando o programa Figma.
 
-*- Quais elementos visuais foram aprimorados?*  
+- Quais elementos visuais foram aprimorados?
+Contador de pontos, prato e funamori,  layout das barras e o plano de fundo.  
 
-*- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?*  
+- O uso de cores, formas e layout foi pensado para reforçar que aspectos do jogo?
+As cores foram baseadas no sushi e em toda culinária oriental, com o intuito de facilitar a assimilação dos elementos com o propósito do jogo. Os buff, debuffs e moedas foram exportadas do site icons8.
 
 ---
 
