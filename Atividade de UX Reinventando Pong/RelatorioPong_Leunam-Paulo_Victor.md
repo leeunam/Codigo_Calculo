@@ -78,7 +78,7 @@ R. Escolher algo que fosse diferente, mas que ao mesmo tempo fosse viável de te
 R. Escrita mais objetiva, compactação de ideias e conclusão de tarefas de forma ágil.
 
 ### Resposta Paulo Victor:
-1. Quais foram os maiores desafios enfrentados durante o processo de criação?
+1. Quais foram os maiores desafios enfrentados durante o processo de criação? <br>
 R. Usar o Figma.
 
 2. Que habilidades foram desenvolvidas ou aprimoradas ao longo da atividade?  
